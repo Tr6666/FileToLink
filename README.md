@@ -43,3 +43,5 @@ To get download and stream links, just forward any file to the bot.
 
 
 You can PM me on [@ooom09](https://telegram.me/ooom09)
+**BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
